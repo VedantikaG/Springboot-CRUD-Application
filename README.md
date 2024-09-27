@@ -10,7 +10,7 @@ The goal of the CRUD application was to develop a user-friendly platform for man
 <table>
   <tr>
     <td>
-    <img src= "https://github.com/user-attachments/assets/3880d667-5cdc-4a73-9234-2447080de750" alt="Diabetes" width="500 height="350/>
+    <img src= "Screenshot (352).png" width="500 height="350/>
 
   </td>
   </tr>
