@@ -10,7 +10,7 @@ The goal of the CRUD application was to develop a user-friendly platform for man
 <table>
   <tr>
     <td>
-    <img src= "Screenshot (352).png" width="500 height="350/>
+    <img src= "Screenshot (352).png" width="800 height="550/>
 
   </td>
   </tr>
