@@ -15,12 +15,38 @@ The goal of the CRUD application was to develop a user-friendly platform for man
   </td>
   </tr>
 </table>
-![Screenshot (352)]()
 
 <table>
   <tr>
     <td>
-    <img src= "[https://github.com/user-attachments/assets/3880d667-5cdc-4a73-9234-2447080de750" alt="Diabetes](https://github.com/user-attachments/assets/cd4efa98-7a34-491e-933a-0e73dd7fffdd)" width="500 height="350/>
+    <img src= "Screenshot (351)" width="800 height="550/>
+
+  </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+    <img src= "Screenshot (353)" width="800 height="550/>
+
+  </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+    <img src= "Screenshot (354)" width="800 height="550/>
+
+  </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+    <img src= "Screenshot (355)" width="800 height="550/>
 
   </td>
   </tr>
